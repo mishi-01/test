@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: [SURGEON SKILLS VR]
 description: [A virtual reality training paradigm designed to train medical professionals in the basics of open surgery.  Click the links below to read more about the design’s progress on various fronts:
-            <p><a href="/biomech.html">1. BIOMECHANICAL DATA COLLECTION</a></p>
-            <p><a href="/tabletbridge.html">2. INTUOS TABLET BRIDGE</a></p>
-            <p><a href="/VRenvironment.html">3. VR ENVIRONMENT</a></p>
-            <p><a href="/references.html">4. REFERENCES</a></p>
+            <p><a href="/biomech.md">1. BIOMECHANICAL DATA COLLECTION</a></p>
+            <p><a href="/tabletbridge.md">2. INTUOS TABLET BRIDGE</a></p>
+            <p><a href="/VRenvironment.md">3. VR ENVIRONMENT</a></p>
+            <p><a href="/references.md">4. REFERENCES</a></p>
 ]
