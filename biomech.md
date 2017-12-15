@@ -3,10 +3,13 @@
       
       Collection of Data: Force Required to Pierce through Porcine Skin Samples 
       Development of a Testing Protocol and Associated Apparatus
+      <p>
       
-      The various instrons used throughout a year of trial-and-error mechanical testing
+      <img width="747" alt="x" src="https://user-images.githubusercontent.com/29470428/34034737-0aca9138-e1c3-11e7-9843-950e7fcfe887.PNG">
+
+     <p> The various instrons used throughout a year of trial-and-error mechanical testing
       
-      In an effort to collect data most representative of incising human tissue, porcine skin samples were used to mimic the human's epigastric region. However, simplying laying a slab of greasy pig skin on top of an instron is neither sanitary, nor effective due to it's, well, ridiculous amount of grease. Applying a downward force via the instron would simply cause the sample to jiggle across the stage, resulting in erroneous data. 
+     <p> In an effort to collect data most representative of incising human tissue, porcine skin samples were used to mimic the human's epigastric region. However, simplying laying a slab of greasy pig skin on top of an instron is neither sanitary, nor effective due to it's, well, ridiculous amount of grease. Applying a downward force via the instron would simply cause the sample to jiggle across the stage, resulting in erroneous data. 
       
       I know this because ... well, we tried it with the BOSE system. You have to learn how to walk before you can fly, right? So our advisor at the time had us do this little exercise (which took about, oh, just an entire month) to teach us this lesson. 
        
