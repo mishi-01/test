@@ -20,21 +20,10 @@
        
        
        
-       Throughout this journey of constructing an adequate testing environment, we were also confronted with the task of === scalpel blade. Simply tightening the instron's ---- hands? around the scalpel was not effective enough, as the hands could not properly grip the scalpel. And so every time the scalpel was lowered to apply downward force, it would shift and ====mess all that up. 
+       Throughout this journey of constructing an adequate testing environment, we were also confronted with the task of === scalpel blade. Simply tightening the instron's ---- hands? around the scalpel was not effective enough, as the hands could not properly grip the scalpel. And so every time the scalpel was lowered to apply downward force, it would shift and ====mess all that up. When in acutality the scalpel blade is held at a specific angle in a specifi way to ensure the safest and best cut.  
        
-       So, a scalpel holder was modeled and 3D printed in such a fashion that it could snugly fit between the instron's clamps. The scalpel blades were removed from their handles, and epoxyed to these 3D printed holders. Throughtout the many iterations of testing, the holder's design was also modified as we saw fit. Most notably was producing a more tapered bottom, since we found that the original design was impinging the tissue during compression testing, yielding ====== data. SHITTY DATA BRO
-       
-       
+       So, a scalpel holder was modeled and 3D printed in such a fashion that it could snugly fit between the instron's clamps. The scalpel blades were removed from their handles, and epoxyed to these 3D printed holders. Epoxyed maaintained this special angle! Throughtout the many iterations of testing, the holder's design was also modified as we saw fit. Most notably was producing a more tapered bottom, since we found that the original design was impinging the tissue during compression testing, yielding ====== data. SHITTY DATA BRO
        
        
        
-       
-       
-       GOAL OF PHASE 1 MECHANICAL TESTING
-       
-       
-        
-       DESIGN OF ELEMENTS FOR MECHANICAL TESTING
-       
-       hi
        
