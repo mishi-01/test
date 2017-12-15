@@ -16,7 +16,13 @@
        
        However, with the box completely hollow, there was no resistance against the downward force from the BOSE and the sample was continuously pushed to the bottom of the box, yielding incredibly bizarre results. It doesn't seem realistic for 140N to be needed to incise a piece of pork skin right? 
        
-       Turns out that the stomach is not completely hallow. We have muscular tissue and fluid and ======; all of which provides the stomach with much needed stability.   
+       Turns out that the stomach is not completely hallow. We have muscular tissue and fluid and ======; all of which provides the stomach with much needed stability, which clearly our aluminum box was lacking. We were then advised to ditch the box and affix the samples directly to a sheet of neoprene rubber instead. 
+       
+       
+       
+       Throughout this journey of constructing an adequate testing environment, we were also confronted with the task of === scalpel blade. Simply tightening the instron's ---- hands? around the scalpel was not effective enough, as the hands could not properly grip the scalpel. And so every time the scalpel was lowered to apply downward force, it would shift and ====mess all that up. 
+       
+       So, a scalpel holder was modeled and 3D printed in such a fashion that it could snugly fit between the instron's clamps. The scalpel blades were removed from their handles, and epoxyed to these 3D printed holders. Throughtout the many iterations of testing, the holder's design was also modified as we saw fit. Most notably was producing a more tapered bottom, since we found that the original design was impinging the tissue during compression testing, yielding ====== data. SHITTY DATA BRO
        
        
        
